@@ -1,16 +1,16 @@
 # miniguia-estudos-notebooklm
 
-# Contexto e Objetivos:
+## Contexto e Objetivos:
 Criei um NotebookLM com o assunto sobre bitcoin, sobre como funciona, como investir e como se planejar
 
-Curadoria de Fontes:
+## Curadoria de Fontes:
 https://foxbit.com.br/o-que-e-bitcoin/
 https://repositorio.ucs.br/server/api/core/bitstreams/44145dde-4df1-4fb0-9b6f-021b064cc4ec/content
 https://www.organizze.com.br/blog/investimento/o-que-sao-criptomoedas
 https://www.youtube.com/watch?v=keC-y8PxqJ0
 https://www.youtube.com/watch?v=24nCm-isaDg
 
-# Engenharia de Prompts e "Cicatrizes":
+## Engenharia de Prompts e "Cicatrizes":
 Fiz algumas perguntas que alguns usuarios com primeiro contato fariam, a primeira foi sobre se tem como ficar rico investindo, e ele respondeu bem dizendo que a longo prazo é possivel ganhar bastante e não ficar rico, porem depende dos riscos tambem, me explicou que existem diversas metricas, entao nao é tão simples
 
 Perguntei tambem sobre agora ser um bom momento de investir, e ele tambem me respondeu de forma indireta, nao disse que sim e nem que não, mas explicou o que determina ou não determina se é um bom momento para investir
